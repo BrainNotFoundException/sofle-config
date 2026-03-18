@@ -4,4 +4,4 @@
 
 Refer [ZMK Docs](https://zmk.dev/docs)
 
-Physical board built by @Mayank-Malviya
+Board built by [@Mayank-Malviya](https://github.com/Mayank-Malviya)
